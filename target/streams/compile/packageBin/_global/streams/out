@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/akka-typed-playground_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/introduction[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/introduction[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/introduction/HelloWorldMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/introduction/HelloWorldMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/introduction/HelloWorldMain$SayHello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/introduction/HelloWorldMain$SayHello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/introduction/HelloWorldMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/introduction/HelloWorldMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/introduction/HelloWorldMain$SayHello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/introduction/HelloWorldMain$SayHello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/actor[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/actor[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/actor/HelloWorldBot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/actor/HelloWorldBot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/actor/HelloWorldBot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/actor/HelloWorldBot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/actor/HelloWorld$Greet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/actor/HelloWorld$Greet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/actor/HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/actor/HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/actor/HelloWorld$Greeted.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/actor/HelloWorld$Greeted.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/actor/HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/actor/HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/actor/HelloWorld$Greet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/actor/HelloWorld$Greet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it/adami/akka/actor/HelloWorld$Greeted$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/albertoadami/repos/akka-typed-playground/target/scala-2.13/classes/it/adami/akka/actor/HelloWorld$Greeted$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
